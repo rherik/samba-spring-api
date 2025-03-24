@@ -1,5 +1,6 @@
 *.class
-
+**/*.yml
+*.yml
 
 /node_modules
 
